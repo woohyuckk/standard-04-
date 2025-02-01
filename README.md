@@ -8,5 +8,5 @@
 - 취소시 다시 Working 구역으로 
 
 
-![미리보기](./assets/todolist.gif)
+![미리보기](../assets/todolist.gif)
 
